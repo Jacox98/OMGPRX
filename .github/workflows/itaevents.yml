@@ -1,5 +1,7 @@
 name: Update itaEvents
-
+permissions:
+  contents: write
+  
 on:
   schedule:
     - cron: "0 8,11,13,16 * * *"
