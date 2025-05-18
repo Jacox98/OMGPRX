@@ -7,8 +7,8 @@ import time
 
 # Costanti
 
-LINKMFP = "https://tuonome.hf.space"
-PASSWORD = "tuapassword"
+LINKMFP = "https://jacox98-trallalero.hf.space"
+PASSWORD = "tXKJz9pkdxFpslN3TGE3i8i1"
 REFERER = "forcedtoplay.xyz"
 ORIGIN = "forcedtoplay.xyz"
 PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
