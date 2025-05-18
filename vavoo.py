@@ -8,8 +8,8 @@ PASSWORD = "tXKJz9pkdxFpslN3TGE3i8i1"
 
 PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
 HEADER = "&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/"
-USR = "TUO_USER_GITHUB"
-REPO = "TUO_BRANCH_GITHUB"
+USR = "Jacox98"
+REPO = "OMGPRX"
 
 OUTPUT_FILE = "channels_italy.m3u8"
 BASE_URL = "https://vavoo.to"
